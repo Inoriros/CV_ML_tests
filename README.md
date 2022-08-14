@@ -26,12 +26,6 @@ Clone or just download the zip file as you like.
 For ".ipynb" files, just open and run through it. For ".py" files, follow regular python logic.
 
 
-
-## Examples of Results
-<img src="images/3D_map3.png" width="320">  
-<img src="images/min_acce.png" width="320">  
-
-
 ## Authors
 * Yi Du
 
