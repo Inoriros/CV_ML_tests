@@ -4,7 +4,7 @@ A repository to restore practice and test code written for computer vision conce
 
 ## Description
 
-There are five tests include a unfinished one:
+There are five tests include an unfinished one:
 * SFM (Structure from Motion)
 * CNN
 * FCN8
